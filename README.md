@@ -6,7 +6,7 @@ This repository contains basic JavaScript practice programs done by **Rajshri Pa
 
 1. ✅ Check Even or Odd using user input  
 2. ✅ Multiplication Table printer
-         This is a simple web-based project that allows users to generate a multiplication table by entering any number.
+ This is a simple web-based project that allows users to generate a multiplication table by entering any number.
  ## 🚀 Features
 
 - User inputs a number
