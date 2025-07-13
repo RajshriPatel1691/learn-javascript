@@ -6,7 +6,7 @@ This repository contains basic JavaScript practice programs done by **Rajshri Pa
 
 1. ✅ Check Even or Odd using user input  
 2. ✅ Multiplication Table printer.
- This is a simple web-based project that allows users to generate a multiplication table by entering any number.
+   - This is a simple web-based project that allows users to generate a multiplication table by entering any number.
  ## 🚀 Features
 
 - User inputs a number
@@ -16,6 +16,14 @@ This repository contains basic JavaScript practice programs done by **Rajshri Pa
    
 3. ✅ Day name printer based on user input
 4. ✅ Displays the current day (Sunday to Saturday) using `switch. Uses `new Date().getDay()` to get the day number (0-6).
+5. ✅ Student and HostelStudent Inheritance in JavaScript.
+- This project demonstrates **constructor function inheritance** in JavaScript using `call()` method.
+ ## 🧠 What I Learned
+
+- Constructor functions in JavaScript
+- `call()` method for inheritance
+- Creating and accessing object properties
+
 
 
 ## 💻 Technologies Used:
