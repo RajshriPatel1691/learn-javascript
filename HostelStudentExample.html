@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student </title>
+</head>
+<body>
+    <script>
+        function Student(Name,Rollno){
+            this.Name = Name;
+            this.Rollno = Rollno;
+
+        }
+         function HostelStudent(Name,Rollno,hostelName){
+            this.hostelName = hostelName;
+            Student.call(this,Name,Rollno);
+
+         }
+
+         let Stu = new HostelStudent("Rajshri Patel",62, "Dbatu Girl Hostel");
+         document.write("Name :"  + " "+ Stu.Name , "<br>" + " " + "RollNo:" + " " + Stu.Rollno ,"<br>" + " " + "HostelName:"+ " " + Stu.hostelName);
+
+
+
+
+
+
+    </script>
+    
+</body>
+</html>
